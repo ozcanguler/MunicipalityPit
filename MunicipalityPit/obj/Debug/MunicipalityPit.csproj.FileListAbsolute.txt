@@ -1,0 +1,11 @@
+C:\Users\Garavel\Desktop\MySimpleGame-master\MunicipalityPit\bin\Debug\MunicipalityPit.exe.config
+C:\Users\Garavel\Desktop\MySimpleGame-master\MunicipalityPit\bin\Debug\MunicipalityPit.exe
+C:\Users\Garavel\Desktop\MySimpleGame-master\MunicipalityPit\bin\Debug\MunicipalityPit.pdb
+C:\Users\Garavel\Desktop\MySimpleGame-master\MunicipalityPit\obj\Debug\MunicipalityPit.csprojAssemblyReference.cache
+C:\Users\Garavel\Desktop\MySimpleGame-master\MunicipalityPit\obj\Debug\MunicipalityPit.Form1.resources
+C:\Users\Garavel\Desktop\MySimpleGame-master\MunicipalityPit\obj\Debug\MunicipalityPit.Properties.Resources.resources
+C:\Users\Garavel\Desktop\MySimpleGame-master\MunicipalityPit\obj\Debug\MunicipalityPit.csproj.GenerateResource.cache
+C:\Users\Garavel\Desktop\MySimpleGame-master\MunicipalityPit\obj\Debug\MunicipalityPit.csproj.CoreCompileInputs.cache
+C:\Users\Garavel\Desktop\MySimpleGame-master\MunicipalityPit\obj\Debug\MunicipalityPit.exe
+C:\Users\Garavel\Desktop\MySimpleGame-master\MunicipalityPit\obj\Debug\MunicipalityPit.pdb
+C:\Users\Garavel\Desktop\MySimpleGame-master\MunicipalityPit\obj\Debug\MunicipalityPit.Form2.resources
