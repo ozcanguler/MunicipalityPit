@@ -4,7 +4,7 @@ Before starting the game, the number of lines is selected from the Combobox.
 
 According to the number of rows we choose, the number of columns increases at the same rate.
 
-We have 3 healty points.
+You have 3 healty points.
 
 1 box with trap in the first row. As the number of rows increases, the number of traps increases proportionally.
 
